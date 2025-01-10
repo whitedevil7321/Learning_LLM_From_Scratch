@@ -82,7 +82,7 @@ python generate.py --prompt "Once upon a time"
 ## 🤝 Let's Connect
 I'm excited to continue pushing the boundaries of Generative AI. Feel free to reach out and discuss AI, Transformers, and LLM development!
 
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeevanaher732/)) | [Twitter](https://twitter.com/yourprofile) | [Email](mailto:jeevanaher732@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jeevanaher732/)) | [Email](mailto:jeevanaher732@gmail.com)
 
 ## 📄 License
 This project is licensed under the MIT License.
